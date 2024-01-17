@@ -3,6 +3,3 @@ myMean <- function(assignment2) {
   return(sum(assignment2)/length(assignment2)) 
   }
 myMean(assignment2)
-install.packages("usethis")
-library(usethis)
-use_git_config(use.name = "frehywet jeksio", user.email = "frehywetj@gmail.com")
