@@ -1,0 +1,11 @@
+Package: myRPackage
+Title: Heads or Tails coin flips
+Version: 0.0.0.9000
+Authors@R: 
+    person(Frehywet, Jekiso, , Frehywet@usf.edu)
+Description: the package i will be creating is called HeadsorTails that returns whether a coin flips head or tails.
+
+License: use_mit_license() 
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
