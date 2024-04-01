@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
  person(Frehywet, Jekiso, , Frehywet@usf.edu)           
 Description: the package i will be creating is called count_vowels, 
-that reads a given sentence and counts the number if vowels in the sentenc. 
+that reads a given sentence and counts the number of vowels in the sentence. 
 
 License: `use_mit_license()`
 Encoding: UTF-8
